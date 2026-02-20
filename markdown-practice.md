@@ -3,6 +3,7 @@ HEADINGS
 ##This Semester
 
 TEXT FORMATTING
+
 **Developer**
 *Software engineer*
 `Data Analyst`
@@ -17,8 +18,9 @@ UNORDERED LIST
 
 ORDERED LIST
 1. Scroll at the end of your code
-2.Type commitment message e.g *Add commit* 
+2. Type commitment message
 3. Click commit changes
+
 
 TABLE
 |Tool             |Purpose                 |Link                                |
