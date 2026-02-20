@@ -30,10 +30,10 @@ TABLE
 |PyTorch          |Research and modern AI  |https://pytorch.org                 |
 
 TASK LIST
+- [x] Learn python basics
+- [ ] Intergrate git and github in my learning
+- [ ] Learn the math
 
-[x]Learn Python basics
-[x]Intergrate git and github in my learning
-[ ]Data handling
 
 CODE BLOCK
 ```python
